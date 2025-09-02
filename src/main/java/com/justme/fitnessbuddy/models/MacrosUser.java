@@ -1,4 +1,4 @@
-package com.justme.fitnessbuddy;
+package com.justme.fitnessbuddy.models;
 
 import java.util.concurrent.atomic.AtomicLong;
 
